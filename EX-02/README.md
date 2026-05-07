@@ -119,16 +119,6 @@ Evaluate outputs based on:
 
 ---
 
-# 📋 Sample Comparison Table
-
-| 🤖 Platform | 🧠 Prompting Technique | ✅ Accuracy | 🔗 Coherence | 😊 Simplicity | ⚡ Speed | 🌟 User Experience |
-|---|---|---|---|---|---|---|
-| ChatGPT | Zero-Shot | High | High | Easy | Fast | Excellent |
-| Gemini | Few-Shot | Medium | High | Moderate | Fast | Good |
-| Copilot | Role-Based | High | Medium | Easy | Moderate | Good |
-
----
-
 # 🎯 Output
 
 A comparative analysis report showing how different AI platforms perform under various prompting techniques.
