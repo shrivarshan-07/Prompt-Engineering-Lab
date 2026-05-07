@@ -102,5 +102,3 @@ Thus, the fundamentals of **Generative AI** and **Large Language Models** were s
 - 🛡️ Ensure originality in your submission.
 
 ---
-
-✨ *Happy Learning & Coding!* ✨
