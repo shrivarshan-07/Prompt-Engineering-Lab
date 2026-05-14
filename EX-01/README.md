@@ -43,7 +43,7 @@ RollNo_Name
 ### 📌 Example
 
 ```text
-2122250406102_Shrivarshan P G
+212225240146_Shrivarshan
 ```
 
 Inside the folder, upload:
