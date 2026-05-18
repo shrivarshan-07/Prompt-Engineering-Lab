@@ -8,6 +8,10 @@
 - 📊 EX-04 Scenario-Based Report Development using Prompting Techniques
 - ⚖️ EX-05 Comparative Analysis of Prompting Techniques
 - 🐍 EX-06 Development of Python Code Compatible with Multiple AI Tools
+- 🛠️ EX-07 Development of a Prompt-Based Application using LLMs
+- 🖼️ EX-08 Reproducing an Image Using Prompts for Image Generation
+- 🎥 EX-09 Exploration of Prompting Techniques for Video Generation
+- ✍️ EX-10 Content Creation Using Prompt Patterns
 
 ---
 
